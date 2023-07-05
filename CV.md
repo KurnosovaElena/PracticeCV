@@ -1,17 +1,20 @@
 # Summery 
 
 ## 1. Name and Surname:
-
+Elena Kurnosova 
 ## 2. Contacts:
-- Phone:
-- Email:
-- GitHub:
-- VK:
+- Phone: +375(29)221-11-58
+- Email: kurnosovaelena04@gmail.com
+- GitHub: https://github.com/KurnosovaElena
+- VK: https://vk.com/go_away_otsuda
+- Telegram: https://t.me/dttiurno
 
 ## 3. Self introduction:
 
 ## 4. Skills:
+
 #### Hadr skills:
+
 #### Soft skills:
 
 ## 5. Code examples:
@@ -23,3 +26,4 @@
 ## 8. English:
 
 ## 9. Photo:
+![photoCV](/photoCV.jpg)
